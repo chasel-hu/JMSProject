@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/amq_config.properties=UTF-8
+encoding//src/jms/AmqObject.java=UTF-8
+encoding//src/jms/AmqReceiver.java=UTF-8
+encoding//src/jms/AmqSender.java=UTF-8
+encoding//src/jms/listener/DefaultListener.java=UTF-8
+encoding//src/jms/util/AmqUtil.java=UTF-8
